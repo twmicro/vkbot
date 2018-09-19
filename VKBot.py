@@ -16,7 +16,7 @@ CONFIG_VARIABLES = {'П':3.14}
 
 # authorize
 
-vk = vk_api.VkApi(token='c87370d527dea2ce349039c44a68f1901996ebdef8ae617c275c9c01e9adb64b0ccffd46f60cf5f6f4e49')
+vk = vk_api.VkApi(token='cf60cf5f6f4e49')
 vk._auth_token()
 
 # functions
